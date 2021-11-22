@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">StepCounter</string>
+    <string name="channel_name">basic_chanel</string>
+    <string name="channel_description">A basic chanel for notifications</string>
+</resources>
